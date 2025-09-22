@@ -21,5 +21,4 @@
 #### Vertical
 ![](https://github.com/SwHaraday/TIS-camera-loader-for-YOLOv5/blob/main/sample_image/vertical.jpg)
 
-** I've tried FLIR cameras with this logic, and found it doesn't work. Other than TIS and FLIR have not tested.
-
+** I've tried FLIR cameras with this logic, and found it doesn't work. Other than TIS and FLIR have not been tested.
